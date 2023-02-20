@@ -11,7 +11,7 @@
 ## Карьера
 Эксперты карьерного центра `Elbrus` помогут составить продающее резюме, прокачать soft-скиллы и научиться проходить собеседования, чтобы получить оффер мечты!
 
-Наши выпускники работают в таких  крупных IT-компаниях, как: [EPAM](https://www.epam.com/), [Сбер](https://sber.ru/), [OneTwoTrip](https://www.onetwotrip.com/), [Ali Express](https://aliexpress.ru/), [Яндекс](https://ya.ru/) и другие.
+Наши выпускники работают в крупных data-driven-компаниях: [Яндекс](https://ya.ru/), [Сбер](https://sber.ru/), [Kaspersky](https://kaspersky.ru), [UniCredit](https://www.unicreditbank.ru/) и прочих, а также в стартапах, использующих State-of-the-Art решения, например, [Deepcake](https://deepcake.io) и других.
 
 93% студентов находят работу за 3 месяца, [по результатам иследования ВШЭ](https://ioe.hse.ru/mirror/pubs/share/533083120.pdf).
 
